@@ -1,4 +1,4 @@
-name: 'Hello World'
+name: 'hello-world-composite-action'
 description: 'Greet someone'
 inputs:
   who-to-greet:  # id of input
